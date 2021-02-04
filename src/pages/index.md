@@ -22,7 +22,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: white
       background_image: images/polite-pluto.jpeg
       background_image_opacity: 42
       background_image_size: cover
