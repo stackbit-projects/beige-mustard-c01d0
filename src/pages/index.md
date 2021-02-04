@@ -26,7 +26,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/2.png
+      background_image: images/5.png
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
