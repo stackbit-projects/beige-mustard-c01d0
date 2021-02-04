@@ -10,9 +10,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
       - label: book a demo
         url: lorem-ipsum
         style: primary
