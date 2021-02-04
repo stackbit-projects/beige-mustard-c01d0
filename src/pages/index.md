@@ -25,7 +25,7 @@ sections:
       background_color: blue
       background_image: images/polite-pluto.jpeg
       background_image_opacity: 42
-      background_image_size: contain
+      background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
     title: What the experts are saying
