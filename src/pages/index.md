@@ -23,7 +23,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/18e98f80-a8a3-4c0a-82d5-a1097f5ee00a.jpeg
+      background_image: images/polite-pluto.jpeg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
